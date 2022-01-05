@@ -4,7 +4,7 @@ import {View, Text} from 'react-native';
 const Home = props => {
   return (
     <View>
-      <Text>Home test</Text>
+      <Text>Home</Text>
     </View>
   );
 };
